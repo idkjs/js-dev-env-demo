@@ -4,6 +4,7 @@
   "description": "js dev env setup",
   "main": "index.js",
   "scripts": {
+    "prestart":"node buildScripts/startMessage.js",
     "start": "node buildScripts/srcServer.js"
   },
   "repository": {
