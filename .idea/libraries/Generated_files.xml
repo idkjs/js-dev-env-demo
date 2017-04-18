@@ -1,15 +1,5 @@
 <component name="libraryTable">
   <library name="Generated files" type="javaScript">
-    <properties>
-      <sourceFilesUrls>
-        <item url="file://$PROJECT_DIR$/dist/src/index.js" />
-        <item url="file://$PROJECT_DIR$/dist/buildScripts/srcServer.js" />
-        <item url="file://$PROJECT_DIR$/dist/src/index.test.js" />
-        <item url="file://$PROJECT_DIR$/dist/buildScripts/startMessage.js" />
-        <item url="file://$PROJECT_DIR$/dist/buildScripts/testSetup.js" />
-        <item url="file://$PROJECT_DIR$/dist/webpack.config.dev.js" />
-      </sourceFilesUrls>
-    </properties>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/dist/webpacp.config.dev.js" />
       <root url="file://$PROJECT_DIR$/dist/webpacp.config.dev.js" />
