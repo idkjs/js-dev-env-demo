@@ -2,6 +2,7 @@
   <dictionary name="devworx">
     <words>
       <w>editorconfig</w>
+      <w>jsdom</w>
       <w>transpile</w>
       <w>transpiled</w>
     </words>
